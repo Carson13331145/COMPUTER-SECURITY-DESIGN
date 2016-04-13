@@ -1,0 +1,4394 @@
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    ASUS           <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = F0-76-1C-7D-5D-FF
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    SC-201501271445<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    SC-201501271445<20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 60-A4-4C-74-8A-76
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    Z516YUA6YOWGNG7<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    Z516YUA6YOWGNG7<20>  唯一          已注册 
+
+    MAC 地址 = 20-1A-06-00-E1-6F
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    BENZ-PC        <20>  唯一          已注册 
+    BENZ-PC        <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 08-9E-01-65-48-2C
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    MICROSO-H3TLRDA<20>  唯一          已注册 
+    MICROSO-H3TLRDA<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 74-46-A0-C7-48-D5
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    JIMMY-IBM      <20>  唯一          已注册 
+    JIMMY-IBM      <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 00-21-CC-D3-7C-F3
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    LENOVO-PC      <20>  唯一          已注册 
+    LENOVO-PC      <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 54-EE-75-61-A6-C6
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    DESKTOP-02JA9EQ<00>  唯一          已注册 
+    DESKTOP-02JA9EQ<20>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 08-60-6E-DC-24-0A
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    A9RHJTAZRQLJP6M<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    A9RHJTAZRQLJP6M<20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 40-8D-5C-65-C2-E3
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    ZHUQIN-CW65S   <00>  唯一          已注册 
+    ZHUQIN-CW65S   <03>  唯一          已注册 
+    ZHUQIN-CW65S   <20>  唯一          已注册 
+    ..__MSBROWSE__.<01>  组           已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1D>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 00-00-00-00-00-00
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    CY-20160101FZXD<20>  唯一          已注册 
+    CY-20160101FZXD<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 50-AF-73-5A-B8-30
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    LOVE_0-PC      <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    LOVE_0-PC      <20>  唯一          已注册 
+
+    MAC 地址 = 20-89-84-6E-3A-C2
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    IDEA-PC        <20>  唯一          已注册 
+    IDEA-PC        <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 20-89-84-9F-22-3D
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    E8QA2ZGK3LBPWL9<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    E8QA2ZGK3LBPWL9<20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 00-00-00-11-11-11
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    APPLE-PC       <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    APPLE-PC       <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 00-90-9A-9F-A2-BB
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    MS12233        <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    MS12233        <20>  唯一          已注册 
+
+    MAC 地址 = 28-D2-44-24-88-D2
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    HUANGJSH8-PC   <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    HUANGJSH8-PC   <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 2C-60-0C-38-42-25
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    CARL-PC        <20>  唯一          已注册 
+    CARL-PC        <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 60-A4-4C-00-A3-CF
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    WIN-8LSSF4F6C5H<20>  唯一          已注册 
+    WIN-8LSSF4F6C5H<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = F4-6D-04-C2-5B-DE
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    BASICCODER-PC  <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    BASICCODER-PC  <20>  唯一          已注册 
+
+    MAC 地址 = 68-F7-28-52-BE-19
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    ZACK-PC        <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    ZACK-PC        <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 08-9E-01-36-45-9A
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    WIN-RL6QC4VNB2U<20>  唯一          已注册 
+    WIN-RL6QC4VNB2U<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 28-D2-44-83-C5-C1
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    DESKTOP-3DFR38D<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    DESKTOP-3DFR38D<20>  唯一          已注册 
+
+    MAC 地址 = AC-22-0B-01-03-A9
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    WC_ZHAO        <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WC_ZHAO        <20>  唯一          已注册 
+
+    MAC 地址 = 20-89-84-D7-18-EC
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    CHENSHIYU      <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    CHENSHIYU      <20>  唯一          已注册 
+
+    MAC 地址 = 04-7D-7B-B3-D1-F9
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    LAOCAO         <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    LAOCAO         <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 44-8A-5B-F2-B1-04
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    HJID3TVMGLTNGKO<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    HJID3TVMGLTNGKO<20>  唯一          已注册 
+
+    MAC 地址 = 20-89-84-DB-8A-B9
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    EVA            <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    EVA            <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 28-D2-44-0A-9C-49
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    REENDEER       <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    REENDEER       <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = B8-88-E3-FA-8F-E9
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    LJJ            <00>  唯一          已注册 
+
+    MAC 地址 = 00-E0-4C-7A-CE-96
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    MYCS           <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    MYCS           <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 2C-59-E5-A1-80-2B
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    WIN-20130925QPV<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WIN-20130925QPV<20>  唯一          已注册 
+
+    MAC 地址 = F0-1F-AF-1E-36-EA
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    WILLIAM        <20>  唯一          已注册 
+    WILLIAM        <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = E0-DB-55-A9-0C-57
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    SIYUN          <20>  唯一          已注册 
+    SIYUN          <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 20-89-84-92-C9-72
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    WJH            <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WJH            <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 28-D2-44-24-32-10
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    ADMINISTRATOR  <20>  唯一          已注册 
+    ADMINISTRATOR  <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 00-E0-4C-36-90-99
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    LUJY25-X450VC  <00>  唯一          已注册 
+    LUJY25-X450VC  <03>  唯一          已注册 
+    LUJY25-X450VC  <20>  唯一          已注册 
+    ..__MSBROWSE__.<01>  组           已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1D>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 00-00-00-00-00-00
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    LNK5X9CALL3GD2Y<00>  唯一          已注册 
+
+    MAC 地址 = 60-A4-4C-7C-4E-67
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    PC201412161129 <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    PC201412161129 <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 20-89-84-9D-5C-45
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    MANNE          <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    MANNE          <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 28-D2-44-19-41-B3
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    WINKY_PC       <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WINKY_PC       <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 14-DD-A9-23-77-B6
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    HP-HP          <20>  唯一          已注册 
+    HP-HP          <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 2C-59-E5-A3-C9-CE
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    峥嵘            .<20>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    峥嵘           . <00>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = B8-88-E3-F1-C7-65
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    FENG           <20>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    FENG           <00>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 00-02-14-15-38-0D
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    KA6Q5IPKRNBHPFH<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    KA6Q5IPKRNBHPFH<20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 94-DE-80-67-F9-71
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    BOND           <20>  唯一          已注册 
+    BOND           <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 5C-F9-DD-58-BE-89
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    DADI-20130816VV<20>  唯一          已注册 
+    DADI-20130816VV<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 78-84-3C-35-3F-04
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    CANZU-PC       <20>  唯一          已注册 
+    CANZU-PC       <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 08-9E-01-57-0E-35
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    JAY-PC         <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    JAY-PC         <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 30-85-A9-7D-9C-01
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    SHUZHIYUAN     <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    SHUZHIYUAN     <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 28-D2-44-14-4A-C0
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    PC201412181739 <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    PC201412181739 <20>  唯一          已注册 
+
+    MAC 地址 = 00-E0-4C-36-00-0E
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    IDEA-PC        <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 20-89-84-9B-18-9D
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    2013-20160319VY<20>  唯一          已注册 
+    2013-20160319VY<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 3C-97-0E-A1-EB-2E
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    MS-201403241309<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    MS-201403241309<20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 3C-97-0E-FF-D1-5B
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    ALEXSIU-PC     <20>  唯一          已注册 
+    ALEXSIU-PC     <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = D0-50-99-14-58-73
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    CAIML-PC       <20>  唯一          已注册 
+    CAIML-PC       <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 08-9E-01-B1-EB-4A
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    遥远的         ...<00>  唯一          已注册 
+
+    MAC 地址 = 28-D2-44-08-7C-56
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    刘健的计算机    ?....<20>  唯一          已注册 
+    刘健的计算机   .?....<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = B8-97-5A-4A-AE-50
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    IDEA--CHEN     <20>  唯一          已注册 
+    IDEA--CHEN     <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 28-D2-44-18-C3-32
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    NEWHT          <20>  唯一          已注册 
+    NEWHT          <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 28-D2-44-09-CB-FD
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    ME             <20>  唯一          已注册 
+    ME             <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 08-9E-01-BD-18-56
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    SU             <20>  唯一          已注册 
+    SU             <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = B8-2A-72-CD-6A-07
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    伍泽林         ...<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    伍泽林            <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 10-C3-7B-27-56-90
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    MESSI          <20>  唯一          已注册 
+    MESSI          <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 00-90-F5-E8-DC-97
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    DESKTOP-U72J2N4<00>  唯一          已注册 
+    DESKTOP-U72J2N4<20>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = D4-BE-D9-4E-7A-A8
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    ALIENS-08251440<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    ALIENS-08251440<20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 2C-60-0C-1C-B1-69
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    16PC           <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    16PC           <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 28-D2-44-19-32-0A
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    DESKTOP-HLJROVN<20>  唯一          已注册 
+    DESKTOP-HLJROVN<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 00-9A-9F-9E-98-33
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    JOEN           <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    JOEN           <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 74-86-7A-10-87-B2
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    记蒜鸡          ..<20>  唯一          已注册 
+    记蒜鸡         ...<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 6C-3B-E5-F1-31-CC
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    XGW_PC         <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    XGW_PC         <20>  唯一          已注册 
+
+    MAC 地址 = 28-D2-44-0C-6D-56
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    WORKGROUP      <00>  组           已注册 
+    PC-201601261434<00>  唯一          已注册 
+    PC-201601261434<20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 60-A4-4C-0A-F2-37
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    WUJIAHUI       <20>  唯一          已注册 
+    WUJIAHUI       <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 74-86-7A-22-C1-74
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    FANG-PC        <20>  唯一          已注册 
+    FANG-PC        <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 08-9E-01-BA-BB-84
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    DELL           <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = E0-DB-55-9F-6D-84
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    FBI            <20>  唯一          已注册 
+    FBI            <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 74-D0-2B-5F-F3-06
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    PEACEFUL       <20>  唯一          已注册 
+    PEACEFUL       <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 08-9E-01-D1-0D-FA
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    PC-20131006DJMY<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    PC-20131006DJMY<20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = A4-5D-36-78-D4-82
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    WIN-J9OO8UILJDK<20>  唯一          已注册 
+    WIN-J9OO8UILJDK<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 7C-05-07-9F-F3-6D
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    PC-20141228HDMH<00>  唯一          已注册 
+    PC-20141228HDMH<20>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = B8-88-E3-F8-A2-5D
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    HAOHUI-PC      <00>  唯一          已注册 
+
+    MAC 地址 = 20-89-84-F9-C8-F9
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    STRAW          <20>  唯一          已注册 
+    STRAW          <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = B8-88-E3-E8-B8-CD
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    WORKGROUP      <00>  组           已注册 
+    W              <00>  唯一          已注册 
+    W              <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 5C-F9-DD-60-8E-B4
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    CH             <20>  唯一          已注册 
+    CH             <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 94-DE-80-A4-FB-0B
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    DESKTOP-JQT62JS<20>  唯一          已注册 
+    DESKTOP-JQT62JS<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = BC-EE-7B-07-67-84
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    LMOAVNE        <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    LMOAVNE        <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 08-9E-01-99-47-A3
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    夭夭           ..<00>  唯一          已注册 
+    夭夭            .<20>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = E0-DB-55-A0-5B-BE
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    EDGESOUL-PC    <20>  唯一          已注册 
+    EDGESOUL-PC    <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 08-60-6E-DC-83-48
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    PC201407211041 <20>  唯一          已注册 
+    PC201407211041 <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = E0-DB-55-CD-0E-77
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    温柔的鸽子     .....<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    温柔的鸽子          <20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 5C-F9-DD-50-BE-13
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    LYUH9CONA8YNUIK<20>  唯一          已注册 
+    LYUH9CONA8YNUIK<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 20-89-84-6D-A8-55
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    LENOVO-PC      <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = F0-76-1C-AC-22-23
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    DELL           <00>  唯一          已注册 
+
+    MAC 地址 = 74-86-7A-0B-B6-DC
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    PPT07-20130730F<00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    PPT07-20130730F<20>  唯一          已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = B8-88-E3-F8-BC-92
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    CHAR           <20>  唯一          已注册 
+    CHAR           <00>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+
+    MAC 地址 = 30-F9-ED-AD-02-08
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+           NetBIOS 远程计算机名称表
+
+       名称               类型         状态
+    ---------------------------------------------
+    SHUANGB        <00>  唯一          已注册 
+    SHUANGB        <20>  唯一          已注册 
+    WORKGROUP      <00>  组           已注册 
+    WORKGROUP      <1E>  组           已注册 
+
+    MAC 地址 = 00-03-03-13-04-31
+
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Ethernet:
+节点 IP 址址: [172.18.40.133] 范围 ID: []
+
+    找不到主机。
+    
+WLAN:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 2:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。
+    
+Connessione alla rete locale (LAN)* 1:
+节点 IP 址址: [0.0.0.0] 范围 ID: []
+
+    找不到主机。

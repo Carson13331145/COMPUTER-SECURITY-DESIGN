@@ -1,0 +1,305 @@
+Getting IP, please wait... 
+Local Ip: 172.18.40.133 
+
+Getting PC-name in the same network, please wait...
+This network segment [172.18.40.*] has PC: 
+16PC                                                                          
+2013-20160319VY                                                               
+A9RHJTAZRQLJP6M                                                               
+ACER                                                                          
+ADMIN-PC                                                                      
+ADMINISTRATOR                                                                 
+ALEXSIU-PC                                                                    
+APPLE-PC                                                                      
+BASICCODER-PC                                                                 
+Getting IP, please wait... 
+Local Ip: 172.18.40.133 
+
+Getting PC-name in the same network, please wait...
+This network segment [172.18.40.*] has PC: 
+16PC                                                                          
+2013-20160319VY                                                               
+A9RHJTAZRQLJP6M                                                               
+ACER                                                                          
+ADMIN-PC                                                                      
+ADMINISTRATOR                                                                 
+ALEXSIU-PC                                                                    
+APPLE-PC                                                                      
+BASICCODER-PC                                                                 
+BENZ-PC                                                                       
+BOND                 Bond's Computer                                          
+CAIML-PC                                                                      
+CANZU-PC                                                                      
+CARL-PC                                                                       
+CHAR                                                                          
+CHENSHIYU                                                                     
+CY-20160101FZXD                                                               
+DADI-20130816VV                                                               
+DELL                                                                          
+DESKTOP-02JA9EQ                                                               
+DESKTOP-3DFR38D                                                               
+DESKTOP-4CNNGMA                                                               
+DESKTOP-HLJROVN                                                               
+DESKTOP-IOME96O                                                               
+DESKTOP-JQT62JS                                                               
+DESKTOP-U72J2N4                                                               
+DSB                  DSB                                                      
+E8QA2ZGK3LBPWL9                                                               
+EDGESOUL-PC          EdgeSoul                                                 
+EVA                                                                           
+FANG-PC                                                                       
+FANGFR-PC                                                                     
+FBI                                                                           
+FENG                                                                          
+GIDEONPC                                                                      
+HP-HP                                                                         
+HUANGJSH8-PC                                                                  
+IDEA--CHEN                                                                    
+IDEA-PC                                                                       
+JAYCE-PC                                                                      
+JIMMY-IBM                                                                     
+JOEN                                                                          
+JUSTNOW                                                                       
+KA6Q5IPKRNBHPFH                                                               
+LAOCAO                                                                        
+LAPTOP-OIPT5CON      Chenpc                                                   
+LENOVO-PC                                                                     
+LMOAVNE                                                                       
+LOVE_0-PC                                                                     
+LUJY25-X450VC        lujy25-X450VC server (Samba, Ubuntu)                     
+LXTX999.COM          Lxtx999.com                                              
+LYUH9CONA8YNUIK                                                               
+MA_SHINGWAI-PC                                                                
+MESSI                                                                         
+MICROSO-H3TLRDA                                                               
+MS-201403241309                                                               
+MS12233                                                                       
+MYCS                                                                          
+NEWHT                                                                         
+NOL                                                                           
+PC-20130814SZUN      zhongzhen                                                
+PC-20131006DJMY                                                               
+PC-20141228HDMH                                                               
+PC-201508161119                                                               
+PC-201601261434                                                               
+PC201406191013                                                                
+PC201407211041                                                                
+PC201412161129                                                                
+PC201412181739                                                                
+PC201501071708                                                                
+PEACEFUL                                                                      
+PPT07-20130730F                                                               
+REENDEER                                                                      
+SC-201501271445                                                               
+SDWM-20140807XB                                                               
+SHUANGB                                                                       
+SHUZHIYUAN                                                                    
+SIYUN                                                                         
+SKY-20150110EIP                                                               
+STARGAZER                                                                     
+STRAW                                                                         
+SU                                                                            
+TANKAICHEN                                                                    
+UZWOBRDLPVKDHPJ                                                               
+W                                                                             
+WC_ZHAO              953's Computer                                           
+WILLIAM                                                                       
+WIN-20130925QPV                                                               
+WIN-8LSSF4F6C5H                                                               
+WIN-B0BN970JIJ6                                                               
+WIN-J9OO8UILJDK                                                               
+WIN-RL6QC4VNB2U                                                               
+WINKY_PC                                                                      
+WJH                                                                           
+WS                                                                            
+WUJIAHUI                                                                      
+YUNYIENVY15                                                                   
+Z516YUA6YOWGNG7                                                               
+ZACK-PC                                                                       
+ZHOU-20130625GG      ’≈º—≈Ù                                                   
+ZHUQIN-CW65S         zhuqin-CW65S server (Samba, Linux Mint)                  
+ŒÈ‘Û¡÷               ŒÈ‘Û¡÷                                                   
+ÿ≤ÿ≤                 LJC-PC                                                   
+·ø·…                                                                          
+—Ó≥—©                                                                        
+—ƒ∞≤‘∞                                                                        
+Œ¬»·µƒ∏Î◊”                                                                    
+º«À‚º¶               ««»Ÿµƒº«À‚º¶                                             
+
+Getting PC-IP in the same network, please wait... 
+IP: 172.18.40.22 is being using
+IP: 172.18.40.31 is being using
+IP: 172.18.40.33 is being using
+IP: 172.18.40.34 is being using
+IP: 172.18.40.39 is being using
+IP: 172.18.40.42 is being using
+IP: 172.18.40.43 is being using
+IP: 172.18.40.59 is being using
+IP: 172.18.40.73 is being using
+IP: 172.18.40.77 is being using
+IP: 172.18.40.85 is being using
+IP: 172.18.40.97 is being using
+IP: 172.18.40.103 is being using
+IP: 172.18.40.105 is being using
+IP: 172.18.40.106 is being using
+IP: 172.18.40.121 is being using
+IP: 172.18.40.126 is being using
+IP: 172.18.40.128 is being using
+IP: 172.18.40.135 is being using
+IP: 172.18.40.164 is being using
+IP: 172.18.40.168 is being using
+IP: 172.18.40.172 is being using
+IP: 172.18.40.175 is being using
+IP: 172.18.40.177 is being using
+IP: 172.18.40.194 is being using
+IP: 172.18.40.197 is being using
+IP: 172.18.40.198 is being using
+IP: 172.18.40.200 is being using
+IP: 172.18.40.212 is being using
+IP: 172.18.40.219 is being using
+IP: 172.18.40.224 is being using
+IP: 172.18.40.227 is being using
+IP: 172.18.40.238 is being using
+IP: 172.18.40.245 is being using
+IP: 172.18.40.250 is being using
+IP: 172.18.41.4 is being using
+IP: 172.18.41.5 is being using
+IP: 172.18.41.12 is being using
+IP: 172.18.41.33 is being using
+IP: 172.18.41.36 is being using
+IP: 172.18.41.43 is being using
+IP: 172.18.41.50 is being using
+IP: 172.18.41.60 is being using
+IP: 172.18.41.71 is being using
+IP: 172.18.41.84 is being using
+IP: 172.18.41.87 is being using
+IP: 172.18.41.99 is being using
+IP: 172.18.41.111 is being using
+IP: 172.18.41.112 is being using
+IP: 172.18.41.115 is being using
+IP: 172.18.41.126 is being using
+IP: 172.18.41.134 is being using
+IP: 172.18.41.145 is being using
+IP: 172.18.41.152 is being using
+IP: 172.18.41.154 is being using
+IP: 172.18.41.155 is being using
+IP: 172.18.41.157 is being using
+IP: 172.18.41.162 is being using
+IP: 172.18.41.166 is being using
+IP: 172.18.41.169 is being using
+IP: 172.18.41.182 is being using
+IP: 172.18.41.183 is being using
+IP: 172.18.41.184 is being using
+IP: 172.18.41.209 is being using
+IP: 172.18.41.230 is being using
+IP: 172.18.41.236 is being using
+IP: 172.18.41.240 is being using
+IP: 172.18.41.241 is being using
+IP: 172.18.41.245 is being using
+IP: 172.18.41.251 is being using
+IP: 172.18.41.252 is being using
+IP: 172.18.41.254 is being using
+IP: 172.18.42.1 is being using
+IP: 172.18.42.5 is being using
+IP: 172.18.42.8 is being using
+IP: 172.18.42.10 is being using
+IP: 172.18.42.14 is being using
+IP: 172.18.42.16 is being using
+IP: 172.18.42.18 is being using
+IP: 172.18.42.24 is being using
+IP: 172.18.42.37 is being using
+IP: 172.18.42.48 is being using
+IP: 172.18.42.49 is being using
+IP: 172.18.42.50 is being using
+IP: 172.18.42.75 is being using
+IP: 172.18.42.76 is being using
+IP: 172.18.42.81 is being using
+IP: 172.18.42.84 is being using
+IP: 172.18.42.90 is being using
+IP: 172.18.42.91 is being using
+IP: 172.18.42.106 is being using
+IP: 172.18.42.115 is being using
+IP: 172.18.42.121 is being using
+IP: 172.18.42.128 is being using
+IP: 172.18.42.131 is being using
+IP: 172.18.42.137 is being using
+IP: 172.18.42.138 is being using
+IP: 172.18.42.141 is being using
+IP: 172.18.42.143 is being using
+IP: 172.18.42.149 is being using
+IP: 172.18.42.152 is being using
+IP: 172.18.42.154 is being using
+IP: 172.18.42.164 is being using
+IP: 172.18.42.172 is being using
+IP: 172.18.42.186 is being using
+IP: 172.18.42.196 is being using
+IP: 172.18.42.197 is being using
+IP: 172.18.42.198 is being using
+IP: 172.18.42.203 is being using
+IP: 172.18.42.204 is being using
+IP: 172.18.42.211 is being using
+IP: 172.18.42.214 is being using
+IP: 172.18.42.215 is being using
+IP: 172.18.42.220 is being using
+IP: 172.18.42.229 is being using
+IP: 172.18.42.247 is being using
+IP: 172.18.43.5 is being using
+IP: 172.18.43.8 is being using
+IP: 172.18.43.10 is being using
+IP: 172.18.43.15 is being using
+IP: 172.18.43.18 is being using
+IP: 172.18.43.34 is being using
+IP: 172.18.43.36 is being using
+IP: 172.18.43.49 is being using
+IP: 172.18.43.64 is being using
+IP: 172.18.43.69 is being using
+IP: 172.18.43.72 is being using
+IP: 172.18.43.77 is being using
+IP: 172.18.43.83 is being using
+IP: 172.18.43.97 is being using
+IP: 172.18.43.101 is being using
+IP: 172.18.43.103 is being using
+IP: 172.18.43.104 is being using
+IP: 172.18.43.108 is being using
+IP: 172.18.43.110 is being using
+IP: 172.18.43.133 is being using
+IP: 172.18.43.134 is being using
+IP: 172.18.43.135 is being using
+IP: 172.18.43.141 is being using
+IP: 172.18.43.152 is being using
+IP: 172.18.43.158 is being using
+IP: 172.18.43.171 is being using
+IP: 172.18.43.176 is being using
+IP: 172.18.43.180 is being using
+IP: 172.18.43.182 is being using
+IP: 172.18.43.187 is being using
+IP: 172.18.43.188 is being using
+IP: 172.18.43.189 is being using
+IP: 172.18.43.202 is being using
+IP: 172.18.43.206 is being using
+IP: 172.18.43.207 is being using
+IP: 172.18.43.220 is being using
+IP: 172.18.43.225 is being using
+IP: 172.18.43.226 is being using
+IP: 172.18.43.227 is being using
+IP: 172.18.43.237 is being using
+IP: 172.18.43.239 is being using
+IP: 172.18.43.249 is being using
+IP: 172.18.43.254 is being using
+IP: 172.18.43.255 is being using
+IP: 224.0.0.2 is being using
+IP: 224.0.0.13 is being using
+IP: 224.0.0.22 is being using
+IP: 224.0.0.100 is being using
+IP: 224.0.0.251 is being using
+IP: 224.0.0.252 is being using
+IP: 224.0.0.253 is being using
+IP: 226.76.150.219 is being using
+IP: 227.192.248.58 is being using
+IP: 231.174.79.39 is being using
+IP: 232.251.74.223 is being using
+IP: 234.113.73.223 is being using
+IP: 234.123.12.1 is being using
+IP: 237.145.220.223 is being using
+
+Searching over, enter to quit...
